@@ -1,6 +1,8 @@
 Beer Analytics Pipeline 📊
+
 📝 Sobre o Projeto
 Este projeto consiste em um pipeline de dados desenvolvido para analisar padrões de consumo de litros (com base em um dataset retirado do Kaggle). O objetivo principal é entender como fatores como o dia da semana e a temperatura impactam o consumo.
+
 
 🛠️ Tecnologias Utilizadas
 A arquitetura do projeto foi construída utilizando as seguintes ferramentas:
@@ -10,6 +12,7 @@ Python (Pandas): Para a extração, manipulação e análise exploratória dos d
 Apache Airflow: Para a orquestração e agendamento do pipeline de dados.
 
 Docker: Para a conteinerização do ambiente, garantindo que o projeto rode de forma consistente.
+
 
 📈 Resultados e Análise
 A análise dos dados resultou em duas visualizações principais:
